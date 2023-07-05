@@ -1,6 +1,0 @@
----
-title: "About"
----
-
-This resources is a log of useful resources covered while preparing for the Azure Data Engineering Certification.
-
