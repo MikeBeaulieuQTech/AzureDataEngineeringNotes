@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This resources is a log of useful resources covered while preparing for the Azure Data Engineering Certification."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AzureDataEngineeringStudyNotes",
+    "section": "",
+    "text": "This resources is a log of useful resources covered while preparing for the Azure Data Engineering Certification.\nI want a record of exercises for basic functions performed so I can review in the future when preparing for the exam, and perform work functions when necessary. The environments change so often that old documentation can be problematic to follow. I will attempt to make note of important/relevant changes when observed."
+  },
+  {
+    "objectID": "index.html#certifications-and-learning-paths",
+    "href": "index.html#certifications-and-learning-paths",
+    "title": "AzureDataEngineeringStudyNotes",
+    "section": "Certifications and Learning Paths",
+    "text": "Certifications and Learning Paths\nhttps://learn.microsoft.com/en-us/users/collinschedler-0717/collections/40yztymq0o5p3w\n\nCurriculum Structure\nMicrosoft Azure for Data Engineering Course 1 6 hours\nData Storage in Microsoft Azure Course 2 16 hours\nData Integration with Microsoft Azure Data Factory Course 3 16 hours\nIntroduction to Microsoft Azure Synapse Analytics Course 4 8 hours\nData Warehousing with Microsoft Azure Synapse Analytics Course 5 14 hours\nData Engineering with MS Azure Synapse Apache Spark Pools Course 6 7 hours\nOperational Analytics with Microsoft Azure Synapse Analytics Course 7 11 hours\nMicrosoft Azure Databricks for Data Engineering Course 8 21 hours\nAzure Data Lake Storage Gen2 and Data Streaming Solution Course 9 9 hours\nPrepare for DP-203: Data Engineering on Microsoft Azure Exam Course 10 5 hours\n\nMicrosoft Azure for Data Engineering\nData Storage in Microsoft Azure\nData Integration with Microsoft Azure Data Factory\nIntroduction to Microsoft Azure Synapse Analytics\nData Warehousing with Microsoft Azure Synapse Analytics\nData Engineering with MS Azure Synapse Apache Spark Pools\nOperational Analytics with Microsoft Azure Synapse Analytics\nMicrosoft Azure Databricks for Data Engineering\nAzure Data Lake Storage Gen2 and Data Streaming Solution\nPrepare for DP-203: Data Engineering on Microsoft Azure Exam"
+  },
+  {
+    "objectID": "course3.html",
+    "href": "course3.html",
+    "title": "Course Three",
+    "section": "",
+    "text": "Syllabus\n\n\nIntegrate data with Azure Data Factory or Azure Synapse Pipeline Describe the core components of Azure Data Factory that enable you to create large scale data ingestion solutions in the cloud 9 videos, 7 readings, 2 practice quizzes\nGraded: Test prep\n\n\n\nPetabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline Describe the various methods that can be used to ingest data between various data stores using Azure Data Factory 5 videos, 4 readings, 1 practice quiz\nGraded: Test prep\n\n\n\nPerform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline Perform common data transformation and cleansing activities within Azure Data Factory without using code Implement Slowly Changing Dimension using Azure Data Factory or Azure Synapse Pipelines 7 videos, 7 readings, 4 practice quizzes\nGraded: Test prep\n\n\n\nOrchestrate data movement and transformation in Azure Data Factory or Azure Synapse Pipeline Use Azure Data Factory to orchestrate large scale data movement by using other Azure Data Platform and Machine Learning technologies 6 videos, 1 reading, 2 practice quizzes\nGraded: Test prep\n\n\n\nExecute existing SSIS packages in Azure Data Factory or Azure Synapse Pipeline Integrate SQL Server Integration Services packages into an Azure Data Factory solution 3 videos, 3 readings, 1 practice quiz\nGraded: Test prep\n\n\n\nOperationalize your Azure Data Factory or Azure Synapse Pipeline Publish your Azure Data Factory work between different environments 3 videos, 6 readings, 1 practice quiz expandweek 6 material\nGraded: Test prep\n\n\n\nReceive data with Azure Data Share and transforming with Azure Data Factory Ingest data from Azure Data Share into Azure Data Factory pipelines to build automated ingestion pipelines 6 videos, 6 readings, 6 practice quizzes\nGraded: Test prep\n\n\n\nCourse Practice Exam Practice Exam on Data integration at scale with Azure Data Factory or Azure Synapse Pipeline 2 videos, 2 readings\nGraded: Course practice exam"
+  },
+  {
+    "objectID": "course2.html",
+    "href": "course2.html",
+    "title": "Data Storage in Microsoft Azure",
+    "section": "",
+    "text": "Syllabus Week 1 Data storage in Microsoft Azure In this module, you will learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your business scenario is the best way to get the most performant solution. you will also learn how to create an Azure Storage account with the correct options for your business needs.\n12 videos, 4 readings, 3 practice quizzes expandweek 1 material\nGraded: Test prep Week 2 Connect an app to Azure Storage In this module, you will create a simple application and add configuration, client library references, and code to connect it to Azure Storage. 5 videos, 6 readings, 5 practice quizzes expandweek 2 material\nGraded: Test prep Week 3 Secure your Azure Storage account In this module, you will learn how Azure Storage provides multilayered security to protect your data. You will find out how to use access keys, to secure networks, and to use Advanced Threat Protection to proactively monitor your system. 8 videos, 2 practice quizzes expandweek 3 material\nGraded: Test prep Week 4 Store application data with Azure Blob storage In this module, you will build an app that stores user files with Azure Blob storage. 4 videos, 5 readings, 2 practice quizzes expandweek 4 material\nGraded: Test prep Week 5 Practice Exam on Store Data in Microsoft Azure In this module, you will take a practice exam that covers key skills measured in the Exam DP-203: Data Engineering on Microsoft Azure. 3 videos, 2 readings expandweek 5 material\nGraded: Course practice exam"
+  },
+  {
+    "objectID": "course1.html",
+    "href": "course1.html",
+    "title": "Microsoft Azure for Data Engineering",
+    "section": "",
+    "text": "Syllabus Week 1 The Evolving world of data and the data engineer In this module, you will learn how data systems are evolving and how the changes affect data professionals. You will also explore the differences between on-premises and cloud data solutions, and consider sample business cases that apply cloud technologies. you will learn about the responsibilities of a data engineer. You will also find out how they relate to the jobs of other data and AI professionals. You will explore common data engineering practices and a high-level architecting process for a data-engineering project.\nMore 14 videos, 3 readings, 2 practice quizzes expandweek 1 material\nGraded: Test prep Week 2 Services on the Microsoft Azure Data Platform In this module, you will learn about Azure technologies that analyze text and images and relational, nonrelational, or streaming data. You will also see how data engineers can choose the technologies that meet their business needs and scale to meet demand securely. You will take a practice exam that will assess your knowledge of the content of this course and prepare you for the Microsoft Certified: Azure Data Engineer Associate exam.\n11 videos, 2 practice quizzes expandweek 2 material\nGraded: Test prep Week 3 Practice Exam on Store Data in Microsoft Azure In this module, you will take a practice exam that covers key skills measured in the Exam DP-203: Data Engineering on Microsoft Azure. 2 videos, 2 readings expandweek 3 material\nGraded: Course practice exam"
+  },
+  {
+    "objectID": "course3.html#data-integration-with-microsoft-azure-data-factory",
+    "href": "course3.html#data-integration-with-microsoft-azure-data-factory",
+    "title": "Course Three",
+    "section": "",
+    "text": "Syllabus\n\n\nIntegrate data with Azure Data Factory or Azure Synapse Pipeline Describe the core components of Azure Data Factory that enable you to create large scale data ingestion solutions in the cloud 9 videos, 7 readings, 2 practice quizzes\nGraded: Test prep\n\n\n\nPetabyte-scale ingestion with Azure Data Factory or Azure Synapse Pipeline Describe the various methods that can be used to ingest data between various data stores using Azure Data Factory 5 videos, 4 readings, 1 practice quiz\nGraded: Test prep\n\n\n\nPerform code-free transformation at scale with Azure Data Factory or Azure Synapse Pipeline Perform common data transformation and cleansing activities within Azure Data Factory without using code Implement Slowly Changing Dimension using Azure Data Factory or Azure Synapse Pipelines 7 videos, 7 readings, 4 practice quizzes\nGraded: Test prep\n\n\n\nOrchestrate data movement and transformation in Azure Data Factory or Azure Synapse Pipeline Use Azure Data Factory to orchestrate large scale data movement by using other Azure Data Platform and Machine Learning technologies 6 videos, 1 reading, 2 practice quizzes\nGraded: Test prep\n\n\n\nExecute existing SSIS packages in Azure Data Factory or Azure Synapse Pipeline Integrate SQL Server Integration Services packages into an Azure Data Factory solution 3 videos, 3 readings, 1 practice quiz\nGraded: Test prep\n\n\n\nOperationalize your Azure Data Factory or Azure Synapse Pipeline Publish your Azure Data Factory work between different environments 3 videos, 6 readings, 1 practice quiz expandweek 6 material\nGraded: Test prep\n\n\n\nReceive data with Azure Data Share and transforming with Azure Data Factory Ingest data from Azure Data Share into Azure Data Factory pipelines to build automated ingestion pipelines 6 videos, 6 readings, 6 practice quizzes\nGraded: Test prep\n\n\n\nCourse Practice Exam Practice Exam on Data integration at scale with Azure Data Factory or Azure Synapse Pipeline 2 videos, 2 readings\nGraded: Course practice exam"
+  },
+  {
+    "objectID": "course3.html#azure-play-projects",
+    "href": "course3.html#azure-play-projects",
+    "title": "Course Three",
+    "section": "6 Azure Play Projects",
+    "text": "6 Azure Play Projects\nhttps://github.com/MikeBeaulieuQTech/adf-cicd"
+  },
+  {
+    "objectID": "course3.html#data-stores",
+    "href": "course3.html#data-stores",
+    "title": "Course Three",
+    "section": "5 Data Stores",
+    "text": "5 Data Stores\nCategory Data Store example Azure Azure Data Lake Store, Azure Synapse Analytics Databases Netezza, Greenplum NoSQL stores Cassandra, MongoDB File FTP, Google Cloud Storage Generic protocols REST, ODBC Services & Apps Dynamics, SalesForce The list of connectors is constantly evolving. You can keep up to date with the latest list, and the activity support by looking at the connectors overview page\n\n5.0.1 Azure Data Factory\nhttps://learn.microsoft.com/en-us/azure/data-factory/author-visually?tabs=data-factory\n\n\n5.0.2 ADF Source Control\nhttps://learn.microsoft.com/en-us/azure/data-factory/source-control"
+  },
+  {
+    "objectID": "course3.html#useful-tutorialsresources",
+    "href": "course3.html#useful-tutorialsresources",
+    "title": "Course Three",
+    "section": "2 Useful Tutorials/Resources",
+    "text": "2 Useful Tutorials/Resources\n\n2.1 Explore Azure Synapse\nhttps://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/01-Explore-Azure-Synapse.html"
+  },
+  {
+    "objectID": "course3.html#connectors",
+    "href": "course3.html#connectors",
+    "title": "Course Three",
+    "section": "3 Connectors",
+    "text": "3 Connectors\nNotes: Connectors are Azure Data Factory objects that enable your Linked Services and Datasets to connect to a wide variety of data sources and sinks. These can include connections to Azure resources and third-party connectors such as Amazon S3 or Google cloud. There are nearly 100 connectors that are available, and they work with the Copy, Data Flow, Look up, Get Metadata, and Delete activities that can be found within Azure Data Factory."
+  },
+  {
+    "objectID": "course3.html#file-formats",
+    "href": "course3.html#file-formats",
+    "title": "Course Three",
+    "section": "4 File Formats",
+    "text": "4 File Formats\n\n4.1 File Format List\n\nAvro format\nBinary format\nDelimited text format\nJSON format\nORC format\nParquet format\n\nThere are too many data stores to list, but the following table lists the categories of data stores and two examples of the types of connectors that exist"
+  }
+]
